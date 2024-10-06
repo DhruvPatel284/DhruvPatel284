@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dhruv156328@gmail.com**
 
-- 📄 Know about my experiences [jjjjj](jjjjj)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1nSp5TJOw-M3Z0SZDl6pz7vMvEW7mgPZT/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
