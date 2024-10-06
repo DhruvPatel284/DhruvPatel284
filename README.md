@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/dhruvpatel_28" target="blank"><img src="https://img.shields.io/twitter/follow/dhruvpatel_28?logo=twitter&style=for-the-badge" alt="dhruvpatel_28" /></a> </p>
 
-- 📝 I regularly write articles on [https://readme-dk-viii.vercel.app/](https://readme-dk-viii.vercel.app/)
+- 📝 I regularly write articles on [Readme](https://readme-dk-viii.vercel.app/)
 
 - 📫 How to reach me **dhruv156328@gmail.com**
 
