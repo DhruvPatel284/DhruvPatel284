@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhruv Patel</h1>
 <h3 align="center">🌟 Aspiring Software Engineer with a passion for web development and creating impactful user experiences. I thrive on solving complex problems and enjoy building innovative solutions that drive engagement. Always eager to learn and collaborate on exciting projects!</h3>
-
+<img align="right" alt="Programming" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvpatel284&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvpatel284" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dhruvpatel_28" target="blank"><img src="https://img.shields.io/twitter/follow/dhruvpatel_28?logo=twitter&style=for-the-badge" alt="dhruvpatel_28" /></a> </p>
